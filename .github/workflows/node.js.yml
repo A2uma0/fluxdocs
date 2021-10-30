@@ -27,11 +27,11 @@ jobs:
     - run: yarn install --frozen-lockfile
     - run: yarn build
     - name: Deploy to https://docs.flux.industries
-      uses: wlixcc/SFTP-Deploy-Action@v1.0
+      uses: kevinpainchaud/simple-ftp-deploy-action@v1.2.1
       with:
-        username: 'github-docs'
-        server: ${{ secrets.SERVER_IP }}
-        ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
-        local_path: './build/*'
-        remote_path: '/var/www/html/docs'
-        args: '-o ConnectTimeout=5'
+        ftp_host: ${{ secrets.SERVER_IP }}
+        ftp_username: ${{ secrets.SERVER_USERNAME }}
+        ftp_password: ${{ secrets.SERVER_PASSWORD }}
+        local_source_dir: 'build'
+        dist_target_dir: '/docs'
+        delete: 'true'
