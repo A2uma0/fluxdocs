@@ -13,6 +13,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   organizationName: 'fluxindustries',
   projectName: 'fluxdocs', 
 
+  // The theme configuration at the bottom did not work for some reason
+  themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+    },
+  },
+
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -39,6 +46,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
       navbar: {
         title: 'Flux Industries',
         logo: {
