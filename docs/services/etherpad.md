@@ -14,4 +14,4 @@ A modern really-real-time collaborative document editor.
 https://etherpad.flux.industries/
 
 ## Source Code
-hhttps://github.com/ether/etherpad-lite/
+https://github.com/ether/etherpad-lite/
