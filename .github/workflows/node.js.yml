@@ -33,5 +33,5 @@ jobs:
         ftp_username: ${{ secrets.SERVER_USERNAME }}
         ftp_password: ${{ secrets.SERVER_PASSWORD }}
         local_source_dir: 'build'
-        dist_target_dir: '/docs'
+        dist_target_dir: '.'
         delete: 'true'
