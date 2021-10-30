@@ -14,4 +14,4 @@ Just-tit is an adult video search engine. It uses goroutines to fetch results fr
 https://porn.flux.industries/
 
 ## Source Code
-https://github.com/dsmatilla/just-tit
+https://github.com/dsmatilla/just-tit/

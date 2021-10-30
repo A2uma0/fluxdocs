@@ -11,7 +11,7 @@ Private
 An open-source post-exploitation framework for students, researchers and developers. 
 
 ## Deployment URL
-https://byob.flux.industries
+https://byob.flux.industries/
 
 ## Source Code
-https://github.com/malwaredllc/byob
+https://github.com/malwaredllc/byob/

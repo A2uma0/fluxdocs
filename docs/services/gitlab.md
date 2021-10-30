@@ -14,4 +14,4 @@ GitLab is an open source self-hosted alternative to GitHub
 https://gitlab.flux.industries/
 
 ## Source Code
-https://github.com/gitlabhq/gitlabhq
+https://github.com/gitlabhq/gitlabhq/

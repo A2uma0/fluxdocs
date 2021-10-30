@@ -14,4 +14,4 @@ Jellyfin is a Free Software Media System that puts you in control of managing an
 https://jellyfin.flux.industries/
 
 ## Source Code
-https://github.com/jellyfin/jellyfin
+https://github.com/jellyfin/jellyfin/

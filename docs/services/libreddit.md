@@ -11,7 +11,7 @@ Public
 Private front-end for Reddit 
 
 ## Deployment URL
-https://libreddit.flux.industries
+https://libreddit.flux.industries/
 
 ## Source Code
-https://github.com/spikecodes/libreddit
+https://github.com/spikecodes/libreddit/

@@ -14,4 +14,4 @@ The superior self-hosted ShareX server
 https://share.flux.industries/
 
 ## Source Code
-https://github.com/tycrek/ass
+https://github.com/tycrek/ass/
