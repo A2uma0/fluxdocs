@@ -43,7 +43,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: 'Flux Industries',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
