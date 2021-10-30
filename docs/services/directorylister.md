@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Directory Lister
@@ -8,7 +8,7 @@ sidebar_position: 3
 Public
 
 ## Description
-Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing. 
+📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing. 
 
 ## Deployment URL
 https://dl.flux.industries/
