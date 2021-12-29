@@ -8,7 +8,7 @@ sidebar_position: 4
 Private
 
 ## Description
-An open-source post-exploitation framework for students, researchers and developers. 
+An open-source post-exploitation framework for students, researchers and developers.
 
 ## Deployment URL
 https://byob.flux.industries/

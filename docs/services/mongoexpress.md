@@ -8,7 +8,7 @@ sidebar_position: 13
 Private
 
 ## Description
-Web-based MongoDB admin interface, written with Node.js and express 
+Web-based MongoDB admin interface, written with Node.js and express
 
 ## Deployment URL
 https://mongo.flux.industries/
