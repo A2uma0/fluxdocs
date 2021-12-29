@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11
+sidebar_position: 12
 ---
 
 # Libreddit
@@ -8,7 +8,7 @@ sidebar_position: 11
 Public
 
 ## Description
-Private front-end for Reddit 
+Private front-end for Reddit
 
 ## Deployment URL
 https://libreddit.flux.industries/
