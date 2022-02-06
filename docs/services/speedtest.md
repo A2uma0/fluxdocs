@@ -8,7 +8,7 @@ sidebar_position: 22
 Public
 
 ## Description
-Speedtest in your Browser
+qBittorrent BitTorrent client
 
 ## Deployment URL
 https://speedtest.flux.industries/
